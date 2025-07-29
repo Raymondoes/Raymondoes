@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raymondoes
 - 👀 I’m interested in Software Engineering and coding
 - 🌱 I’m currently learning Software and Web Development (Full Stack)
-- 📫 How to reach me: https://raymondoes.github.io/aboutsite/ or through Discord, my username is "raymondoes".
+- 📫 How to reach me: through Discord, my username is "raymondoes".
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a Chinese Ethnic from Indonesia, and i started coding at 8th grade
