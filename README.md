@@ -8,5 +8,9 @@
 ## Operating System
 <img src="https://skillicons.dev/icons?i=arch" />
 
-## Socials & Links
+## Socials
 <img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter,stackoverflow" />
+
+## Websites
+
+[Personal Website](https://ray-website-nine.vercel.app/)
