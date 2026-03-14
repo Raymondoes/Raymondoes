@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Raymondoes
-- 👀 I’m interested in Software Engineering and coding
-- 🌱 I’m currently learning Software Development (Mainly Desktop, Backend and Mobile Development)
-- 📫 How to reach me: through Discord, my username is "raymondoes".
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm a Chinese Ethnic from Indonesia, and i started coding at 8th grade
+# Hi, I'm Raymond
+
+##### Hi, I'm Raymond, I am an Indonesian Programmer living in North Sumatra, I am interested in Software Engineering.
+
+## Languages & Resources
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,electron,git,nodejs,express />
+
+## Operating System
+<img src="https://skillicons.dev/icons?i=arch" />
+
+## Socials & Links
+<img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter,stackoverflow" />
