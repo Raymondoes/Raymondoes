@@ -15,7 +15,3 @@
 ## Websites
 
 [Personal Website](https://ray-website-nine.vercel.app/)
-
-## TOP LANGUAGES
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raymondoes)](https://github.com/Raymondoes)
