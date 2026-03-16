@@ -9,7 +9,7 @@
 ## Operating System
 <img src="https://skillicons.dev/icons?i=arch" />
 
-## Socials
+## Socials & More
 <img src="https://skillicons.dev/icons?i=discord,github,instagram,twitter,stackoverflow" />
 
 ## Websites
