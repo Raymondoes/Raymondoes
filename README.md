@@ -4,7 +4,7 @@
 
 ## Languages & Resources
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,electron,git,nodejs,express" />
-
+[![Raymondoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymondoes)](https://github.com/Raymondoes)
 
 ## Operating System
 <img src="https://skillicons.dev/icons?i=arch" />
