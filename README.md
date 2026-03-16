@@ -4,7 +4,6 @@
 
 ## Languages & Resources
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,electron,git,nodejs,express" />
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Operating System
