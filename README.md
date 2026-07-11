@@ -1,6 +1,7 @@
 # 🇺🇸🇨🇦🇬🇧🇦🇺 EN: Hello, I'm Raymond
 # 🇮🇩🇲🇾 ID/MY: Halo, Nama saya Raymond
 # 🇨🇳🇸🇬🇭🇰🇹🇼 CN: 嗨, 我是黄威霖
+# 🇷🇺 RU: Здравствуйте, меня зовут Рэймонд.
 
 ### Hi, I'm Raymond, I am an Indonesian Programmer living in North Sumatra, I am interested in Software Engineering.
 
