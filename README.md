@@ -9,7 +9,7 @@
 # 🇺🇸 & 🇮🇩
 
 ## Technologies
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flask,numpy,react,nextjs,electron,git,nodejs,express,docker,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flask,react,nextjs,electron,git,nodejs,express,docker,postman" />
 
 
 ## Operating System
