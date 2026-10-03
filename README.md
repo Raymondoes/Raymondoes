@@ -6,7 +6,7 @@
 ### Hi, I'm Raymond, I am an Indonesian Programmer living in North Sumatra, I am interested in Software Engineering.
 
 ## Languages I Speak
-# 🇺🇸 & 🇮🇩
+# 🏴󠁧󠁢󠁥󠁮󠁧󠁿 & 🇮🇩
 
 ## Technologies
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flask,react,nextjs,electron,git,nodejs,express,docker,postman" />
